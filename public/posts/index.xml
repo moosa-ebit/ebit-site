@@ -6,7 +6,20 @@
     <description>Recent content in Posts on eBit Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jan 2025 10:48:21 +0300</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Jan 2025 11:58:58 +0300</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Second Post</title>
+      <link>http://localhost:1313/posts/my-second-post/</link>
+      <pubDate>Mon, 27 Jan 2025 11:58:58 +0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-second-post/</guid>
+      <description>&lt;h2 id=&#34;this-is-my-second-post&#34;&gt;This is my second post!!&lt;/h2&gt;
+&lt;p&gt;I am just testing things here.&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;this-is-my-second-post&#34;&gt;This is my second post!!&lt;/h2&gt;
+&lt;p&gt;I am just testing things here.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
