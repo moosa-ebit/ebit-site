@@ -5,6 +5,7 @@ theme = 'terminal'
 
 [params]
     readMore = "Read more"
+    centerTheme = true
 [params.logo]
     logoText = "eBit Site"
  
