@@ -1,0 +1,11 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'eBit Site'
+theme = 'terminal'
+
+[params]
+    readMore = "Read more"
+[params.logo]
+    logoText = "eBit Site"
+ 
+ 
