@@ -3,6 +3,16 @@ languageCode = 'en-us'
 title = 'eBit Site'
 theme = 'terminal'
 
+[menus]
+  [[menus.main]]
+    name = 'Posts'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 20
+
 [params]
     readMore = "Read more"
     centerTheme = true
