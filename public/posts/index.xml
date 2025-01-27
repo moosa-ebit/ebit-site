@@ -13,12 +13,10 @@
       <pubDate>Mon, 27 Jan 2025 10:48:21 +0300</pubDate>
       
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
-&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
-      <content>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
-&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
+      <description>&lt;h2 id=&#34;this-is-my-first-post&#34;&gt;This is my first post&lt;/h2&gt;
+&lt;p&gt;I was &lt;strong&gt;bored&lt;/strong&gt; so I made this website in my freetime using a framework called &lt;a href=&#34;https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=&amp;amp;cad=rja&amp;amp;uact=8&amp;amp;ved=2ahUKEwiIsNH2wpWLAxVYgP0HHX-9Av8QFnoECCIQAQ&amp;amp;url=https%3A%2F%2Fgohugo.io%2F&amp;amp;usg=AOvVaw1inio4xEYkYM9dH-PPgRa_&amp;amp;opi=89978449&#34;&gt;&lt;em&gt;gohugo&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;this-is-my-first-post&#34;&gt;This is my first post&lt;/h2&gt;
+&lt;p&gt;I was &lt;strong&gt;bored&lt;/strong&gt; so I made this website in my freetime using a framework called &lt;a href=&#34;https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=&amp;amp;cad=rja&amp;amp;uact=8&amp;amp;ved=2ahUKEwiIsNH2wpWLAxVYgP0HHX-9Av8QFnoECCIQAQ&amp;amp;url=https%3A%2F%2Fgohugo.io%2F&amp;amp;usg=AOvVaw1inio4xEYkYM9dH-PPgRa_&amp;amp;opi=89978449&#34;&gt;&lt;em&gt;gohugo&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 </content>
     </item>
     
