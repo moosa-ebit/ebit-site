@@ -6,7 +6,7 @@ theme = 'terminal'
 [menus]
   [[menus.main]]
     name = 'Posts'
-    pageRef = '/'
+    pageRef = '/posts'
     weight = 10
   [[menus.main]]
     name = 'About'
@@ -16,6 +16,8 @@ theme = 'terminal'
 [params]
     readMore = "Read more"
     centerTheme = true
+    missingBackButtonLabel = "Back to home page"
+    description = "This site is for testing purposes only."
 [params.logo]
     logoText = "eBit Site"
  
