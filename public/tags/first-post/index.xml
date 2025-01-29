@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>First Post on eBit Site</title>
+    <link>http://localhost:1313/tags/first-post/</link>
+    <description>Recent content in First Post on eBit Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jan 2025 10:48:21 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/first-post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 27 Jan 2025 10:48:21 +0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;this-is-my-first-post&#34;&gt;This is my first post&lt;/h2&gt;
+&lt;p&gt;I was &lt;strong&gt;bored&lt;/strong&gt; so I made this website in my freetime using a framework called &lt;a href=&#34;https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=&amp;amp;cad=rja&amp;amp;uact=8&amp;amp;ved=2ahUKEwiIsNH2wpWLAxVYgP0HHX-9Av8QFnoECCIQAQ&amp;amp;url=https%3A%2F%2Fgohugo.io%2F&amp;amp;usg=AOvVaw1inio4xEYkYM9dH-PPgRa_&amp;amp;opi=89978449&#34;&gt;&lt;em&gt;gohugo&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;this-is-my-first-post&#34;&gt;This is my first post&lt;/h2&gt;
+&lt;p&gt;I was &lt;strong&gt;bored&lt;/strong&gt; so I made this website in my freetime using a framework called &lt;a href=&#34;https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=&amp;amp;cad=rja&amp;amp;uact=8&amp;amp;ved=2ahUKEwiIsNH2wpWLAxVYgP0HHX-9Av8QFnoECCIQAQ&amp;amp;url=https%3A%2F%2Fgohugo.io%2F&amp;amp;usg=AOvVaw1inio4xEYkYM9dH-PPgRa_&amp;amp;opi=89978449&#34;&gt;&lt;em&gt;gohugo&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

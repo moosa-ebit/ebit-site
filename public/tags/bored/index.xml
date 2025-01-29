@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>eBit Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on eBit Site</description>
+    <title>Bored on eBit Site</title>
+    <link>http://localhost:1313/tags/bored/</link>
+    <description>Recent content in Bored on eBit Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jan 2025 11:58:58 +0300</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Jan 2025 11:58:58 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/bored/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Second Post</title>
       <link>http://localhost:1313/posts/my-second-post/</link>
@@ -30,30 +30,6 @@
 &lt;p&gt;I was &lt;strong&gt;bored&lt;/strong&gt; so I made this website in my freetime using a framework called &lt;a href=&#34;https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=&amp;amp;cad=rja&amp;amp;uact=8&amp;amp;ved=2ahUKEwiIsNH2wpWLAxVYgP0HHX-9Av8QFnoECCIQAQ&amp;amp;url=https%3A%2F%2Fgohugo.io%2F&amp;amp;usg=AOvVaw1inio4xEYkYM9dH-PPgRa_&amp;amp;opi=89978449&#34;&gt;&lt;em&gt;gohugo&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</description>
       <content>&lt;h2 id=&#34;this-is-my-first-post&#34;&gt;This is my first post&lt;/h2&gt;
 &lt;p&gt;I was &lt;strong&gt;bored&lt;/strong&gt; so I made this website in my freetime using a framework called &lt;a href=&#34;https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=&amp;amp;cad=rja&amp;amp;uact=8&amp;amp;ved=2ahUKEwiIsNH2wpWLAxVYgP0HHX-9Av8QFnoECCIQAQ&amp;amp;url=https%3A%2F%2Fgohugo.io%2F&amp;amp;usg=AOvVaw1inio4xEYkYM9dH-PPgRa_&amp;amp;opi=89978449&#34;&gt;&lt;em&gt;gohugo&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/about/about/</guid>
-      <description>&lt;figure class=&#34;left&#34; &gt;
-    &lt;img src=&#34;../images/Victor_Hugo-Hunchback.jpg&#34;   /&gt;
-    
-  &lt;/figure&gt;
-
-
-&lt;p&gt;&lt;em&gt;The Hunchback of Notre-Dame&lt;/em&gt; (French: &lt;em&gt;Notre-Dame de Paris&lt;/em&gt;) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.&lt;/p&gt;</description>
-      <content>
-  &lt;figure class=&#34;left&#34; &gt;
-    &lt;img src=&#34;../images/Victor_Hugo-Hunchback.jpg&#34;   /&gt;
-    
-  &lt;/figure&gt;
-
-
-&lt;p&gt;&lt;em&gt;The Hunchback of Notre-Dame&lt;/em&gt; (French: &lt;em&gt;Notre-Dame de Paris&lt;/em&gt;) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.&lt;/p&gt;
 </content>
     </item>
     
